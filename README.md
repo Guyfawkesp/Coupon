@@ -20,7 +20,9 @@ The notebook explores various aspects of coupon acceptance, including:
 
 ## Jupyter Notebook
 
-You can find the complete analysis in this [prompt.ipynb](https://github.com/Guyfawkesp/Coupon/blob/main/prompt.ipynb).  Replace `link_to_your_notebook` with the actual link to your notebook file hosted on Google Colab.
+You can find the complete analysis in this [prompt.ipynb](https://github.com/Guyfawkesp/Coupon/blob/main/prompt.ipynb).
+
+
 
 ## Example:  Visualizations
 
