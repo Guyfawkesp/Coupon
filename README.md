@@ -9,7 +9,7 @@ The analysis revealed several key insights:
 * **Overall Coupon Acceptance:** A significant proportion of coupons were accepted, indicating a general receptiveness to promotional offers.  A pie chart visualizing the proportion of accepted versus rejected coupons is included in the notebook.
 * **Bar Coupon Acceptance:**  Drivers who frequent bars (more than once a month) and are over 25 years old demonstrate a higher acceptance rate for bar coupons.  Additionally, the acceptance rate is influenced by the presence of non-kid passengers and occupations other than farming, fishing, or forestry.  A variety of bar plots highlight these findings.
 
-* **Independent Investigation (Coffee House Coupons):**  An additional analysis of coffee house coupons explored the relationship between acceptance and age, as well as the frequency of coffee house visits.  Similar to bar coupons, a pattern emerged where older customers and those who frequented coffee houses frequently demonstrated higher acceptance rates.
+* **Independent Investigation (Coffee House Coupons):**  An additional analysis of coffee house coupons explored the relationship between acceptance and age, as well as the frequency of coffee house visits.  Similar to bar coupons, a pattern emerged where partnered customers who frequented coffee houses atleast once demonstrated higher acceptance rates.
 
 ## Further Exploration
 
