@@ -1,6 +1,6 @@
 # Coupon Analysis
 
-This Jupyter notebook analyzes a dataset of coupon acceptance behavior. The analysis focuses on understanding the characteristics of drivers who accept various types of coupons, particularly bar coupons.
+This Jupyter notebook analyzes a dataset of coupon acceptance behavior. The analysis focuses on understanding the characteristics of drivers who accept various types of coupons, particularly bar, Coffee House coupons.
 
 ## Key Findings
 
