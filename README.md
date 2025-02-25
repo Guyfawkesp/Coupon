@@ -34,4 +34,4 @@ The notebook includes several visualizations, such as:
 * A collection of bar charts displaying the distribution of various categorical features.
 * A histogram illustrating the distribution of temperatures.
 
-These visualizations are crucial for interpreting the data and drawing conclusions about coupon acceptance patterns.
+These visualizations  make the interpretations of data/observations simple .
