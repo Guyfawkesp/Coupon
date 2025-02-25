@@ -22,6 +22,8 @@ The notebook explores various aspects of coupon acceptance, including:
 
 You can find the complete analysis in this [prompt.ipynb](https://github.com/Guyfawkesp/Coupon/blob/main/prompt.ipynb).
 
+Also you can download the [prompt.mhtml](https://github.com/Guyfawkesp/Coupon/blob/main/prompt.mhtml) file and open in chrome.
+
 
 
 ## Example:  Visualizations
